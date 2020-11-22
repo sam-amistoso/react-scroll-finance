@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/react-scroll-finance/static/js/main.18638a75.chunk.js",
-    "main.js.map": "/react-scroll-finance/static/js/main.18638a75.chunk.js.map",
+    "main.js": "/react-scroll-finance/static/js/main.9483007a.chunk.js",
+    "main.js.map": "/react-scroll-finance/static/js/main.9483007a.chunk.js.map",
     "runtime-main.js": "/react-scroll-finance/static/js/runtime-main.aa497eb7.js",
     "runtime-main.js.map": "/react-scroll-finance/static/js/runtime-main.aa497eb7.js.map",
     "static/js/2.0d13bda3.chunk.js": "/react-scroll-finance/static/js/2.0d13bda3.chunk.js",
@@ -19,6 +19,6 @@
   "entrypoints": [
     "static/js/runtime-main.aa497eb7.js",
     "static/js/2.0d13bda3.chunk.js",
-    "static/js/main.18638a75.chunk.js"
+    "static/js/main.9483007a.chunk.js"
   ]
 }
